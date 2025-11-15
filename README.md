@@ -1,0 +1,1 @@
+https://diabeticapp.streamlit.app/
